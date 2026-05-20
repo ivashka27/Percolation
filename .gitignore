@@ -1,0 +1,6 @@
+.DS_Store
+build/
+percolation_test
+backwash_test
+stats_test
+*.out
